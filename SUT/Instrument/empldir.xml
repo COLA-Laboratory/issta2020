@@ -1,0 +1,16 @@
+<application name="empdldir" basedir="/opt/tomcat/webapps/empldir" >
+
+	<classlist>
+		<class name="org.apache.jsp.AdminMenu_jsp" target="AdminMenu.jsp"/>
+		<class name="org.apache.jsp.Common_jsp" target="Common.jsp"/>	
+		<class name="org.apache.jsp.Default_jsp" target="Default.jsp"/>
+		<class name="org.apache.jsp.DepsGrid_jsp" target="DepsGrid.jsp"/>
+		<class name="org.apache.jsp.DepsRecord_jsp" target="DepsRecord.jsp"/>	
+		<class name="org.apache.jsp.EmpDetail_jsp" target="EmpDetail.jsp"/>
+		<class name="org.apache.jsp.EmpsGrid_jsp" target="EmpsGrid.jsp"/>
+		<class name="org.apache.jsp.EmpsRecord_jsp" target="EmpsRecord.jsp"/>
+		<class name="org.apache.jsp.Header_jsp" target="Header.jsp"/>
+		<class name="org.apache.jsp.Login_jsp" target="Login.jsp"/>
+	</classlist>
+
+</application>
